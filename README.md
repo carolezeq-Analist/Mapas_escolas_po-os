@@ -1,2 +1,2 @@
-# Mapas_escolas_po-os
+# index.html
 Visualização interativa de escolas em Poços de Caldas com Python.
